@@ -1,6 +1,9 @@
 ---
 title: "About Me"
 ---
+```{r, echo = FALSE}
+library(icon)
+```
 
 <center>
 # Hi, I'm Ian Hinds.
