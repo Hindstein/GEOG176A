@@ -1,0 +1,20 @@
+name: "First GIS Project Site"
+output_dir: "."
+navbar:
+  title: "Intro to GIS (UCSB)"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-code-branch
+      href: geog176A.html
+    - text: "CV/Resume"
+      icon: fa-user
+      href: cv-resume.html
+  right:
+    - icon: fa-github
+      href: https://github.com/Hindstein/geog176A_2020
+output:
+  html_document:
+    theme: cosmo

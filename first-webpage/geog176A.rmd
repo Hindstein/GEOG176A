@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+In the Summer 2020, I took an Intro GIS course using R language and software. I drafted code, completed data science projects, and improved my geospatial data skills. This is a collection of my work, and it will not cover anything outside of the Introduction course. 
+
+## [Building a project website (github)](https://github.com/Hindstein/geog176A_2020.git)
+ 
+ - This assignment focused on building a static user site with Github Pages
+ - Includes a github repository for access to all the code involved
+ - The quality of work is a big step-up from my previous experience
+ - Completed using *RStudio* and *R* language
+ - Familiarizes *RStudio* and *Github* transparency
+ 
+ *****
