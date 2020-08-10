@@ -14,7 +14,7 @@ navbar:
       href: cv-resume.html
   right:
     - icon: fa-github
-      href: https://github.com/Hindstein/geog176A_2020
+      href: https://github.com/Hindstein/GEOG176A
 output:
   html_document:
     theme: cosmo
