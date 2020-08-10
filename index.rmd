@@ -6,7 +6,7 @@ title: "About Me"
 # Hi, I'm Ian Hinds.
 <center>
 
-![](../first-webpage/img/Hidden-Lake.JPG)
+![](../img/Hidden-Lake.JPG)
 
 **Project Description** This site serves as a portfolio for all GIS work completed within an Introductory GIS course at the University of California, Santa Barbara. The course used only *R* as the primary coding language, along with *RStudio* for coding work. This course is/was a big step into the world of practical geographical applications and an exciting experience.
 
