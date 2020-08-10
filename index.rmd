@@ -15,5 +15,6 @@ title: "About Me"
 
 *****
 ```{r}
-icon::fa("paper-plane", color = "black", size = 4)
-```
+
+index::fa("paper-plane", color = "black", size = 4)```
+
