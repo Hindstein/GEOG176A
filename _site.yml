@@ -15,6 +15,8 @@ navbar:
   right:
     - icon: fa-github
       href: https://github.com/Hindstein/geog176A
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/ianhinds/
 output:
   html_document:
     theme: cosmo
