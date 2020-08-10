@@ -1,7 +1,7 @@
 name: "First GIS Project Site"
 output_dir: "."
 navbar:
-  title: "Intro to GIS (UCSB)"
+  title: "Ian Hinds (UCSB)"
   left:
     - text: "Home"
       icon: fa-home
