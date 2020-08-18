@@ -13,8 +13,10 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  - Familiarizes *RStudio* and *Github* transparency
  
  
-## [COVID-19 Pandemic (github)](https://github.com/Hindstein/GEOG176A/blob/master/index.html)
+## [COVID-19 Pandemic (github)](https://hindstein.github.io/geog-176A-labs/lab-02-ianhinds.html)
  
  - This lab breaks down NY Times data on the COVID-19 Pandemic
- - 
+ - It includes the use of ggplot, and data manipulation to visualize the effects of COVID on different populations
+ - The results expose natural spread, and the effects of preventative methods (mask, Social Distancing, etc.)
+ 
  *****
