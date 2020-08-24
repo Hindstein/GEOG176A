@@ -29,4 +29,4 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  - Quantifying border zones
  - Mapping border zones
  
- *****
+*****

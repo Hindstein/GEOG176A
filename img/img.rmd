@@ -1,0 +1,32 @@
+---
+title: "Plots/Generated Images"
+---
+
+Below are several examples of various plots, maps, graphs, etc. All visuals were created in *RStudio*, using *ggplot* and other geospatial libraries. 
+
+<center>
+# Regional COVID-19 Cases/Deaths
+<center>
+![](./region-casedeath-Rplot.png)
+
+*****
+
+<center>
+# States With Most Cases
+<center>
+![](./state_level-Rplot.png)
+
+*****
+
+<center>
+# Tennessee COVID Case History
+![](./Tennesee-covid-Rplot.png)
+
+*****
+
+<center>
+# Continental US States Surrounding Tennesee
+<center>
+![](./tntouch-Rplot.png)
+
+*****

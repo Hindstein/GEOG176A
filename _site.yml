@@ -6,9 +6,12 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "GIS Work"
+    - text: "GIS Projects"
       icon: fa-code-branch
       href: geog176A.html
+    - text: "GIS Images"
+      icon: fa-camera
+      href: img.html
     - text: "CV/Resume"
       icon: fa-user
       href: cv-resume.html
