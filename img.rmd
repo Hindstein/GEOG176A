@@ -7,26 +7,26 @@ Below are several examples of various plots, maps, graphs, etc. All visuals were
 <center>
 # Regional COVID-19 Cases/Deaths
 <center>
-![](./region-casedeath-Rplot.png)
+![](./img/region-casedeath-Rplot.png)
 
 *****
 
 <center>
 # States With Most Cases
 <center>
-![](./state_level-Rplot.png)
+![](./img/state_level-Rplot.png)
 
 *****
 
 <center>
 # Tennessee COVID Case History
-![](./Tennesee-covid-Rplot.png)
+![](./img/Tennesee-covid-Rplot.png)
 
 *****
 
 <center>
 # Continental US States Surrounding Tennesee
 <center>
-![](./tntouch-Rplot.png)
+![](./img/tntouch-Rplot.png)
 
 *****

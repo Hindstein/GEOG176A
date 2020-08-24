@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "GIS Data Visuals"
       icon: fa-camera
-      href: img.html
+      href: img/img.html
     - text: "CV/Resume"
       icon: fa-user
       href: cv-resume.html
