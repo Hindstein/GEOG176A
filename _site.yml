@@ -9,7 +9,7 @@ navbar:
     - text: "GIS Projects"
       icon: fa-code-branch
       href: geog176A.html
-    - text: "GIS Images"
+    - text: "GIS Data Visuals"
       icon: fa-camera
       href: img.html
     - text: "CV/Resume"
