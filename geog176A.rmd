@@ -29,4 +29,10 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  - Quantifying border zones
  - Mapping border zones
  
+ 
+## [Tesselations and Point-in-Polygon (R)](https://hindstein.github.io/geog-176A-labs/lab-04-ianhinds.html)
+ 
+ - Uses *simple features*, *USABoundaries::us_counties*, 
+ 
+ 
 *****
