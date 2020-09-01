@@ -30,9 +30,15 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  - Mapping border zones
  
  
-## [Tesselations and Point-in-Polygon (R)](https://hindstein.github.io/geog-176A-labs/lab-04-ianhinds.html)
+## [Tesselations, Spatial Joins, Point-in-Polygon (R)](https://hindstein.github.io/geog-176A-labs/lab-04-ianhinds.html)
  
- - Uses *simple features*, *USABoundaries::us_counties*, 
+ - This lab uses *simple features*, *USABoundaries::us_counties*, and *rmaphshaper* to create Tessellations of the continental US
+ - Covers Spatial Tile shaping and sizing
+ - Simplifying geometric point values
+ - Creating Funcitons to return data.frames, area, plots, and other operations
+ - Analyzes the risk level, age, and purpose of the 91,000 dam systems in the US (data sourced from U.S. Army Corps of Engineers)
+ 
+
  
  
 *****
