@@ -17,7 +17,7 @@ navbar:
       href: cv-resume.html
   right:
     - icon: fa-github
-      href: https://github.com/Hindstein/geog176A
+      href: https://github.com/Hindstein
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/ianhinds/
 output:
