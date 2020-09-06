@@ -38,7 +38,10 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  - Creating Funcitons to return data.frames, area, plots, and other operations
  - Analyzes the risk level, age, and purpose of the 91,000 dam systems in the US (data sourced from U.S. Army Corps of Engineers)
  
+## [Rasters and Remote Sensing (R)](https://hindstein.github.io/geog-176A-labs/lab-05-ianhinds.html)
 
+- Uses *raster*, *getlandsat*, *osmdata*, and *mapview* libraries
+- Analyzes flood data from Palo, Iowa (26 September 2016)
  
  
 *****
