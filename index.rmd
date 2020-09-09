@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 ```{r, echo = FALSE}
-library(icon)
+library(ICON)
 ```
 
 <center>
@@ -15,6 +15,13 @@ library(icon)
 
 
 **Personal:** I'm originally from Palmdale California, but since the pandemic, I have been between Virginia and Tennessee. I enjoy being outside, especially now, doing anything. I have a big interest in aviation and flying, as well as diving through water and the air. I'm in Army ROTC, pursuing a military career as an Aviator or Combat Engineer, but GIS skills will follow me wherever I go.
+
+**Contact:** ianhinds@ucsb.edu
+
+**[GitHub Page](https://github.com/Hindstein)**
+
+
+
 
 *****
 
