@@ -3,7 +3,7 @@ title: "**Ian Hinds** (Hindstein)"
 ---
 *****
 
-***Professional Work Experience:***
+***Work Experience:***
 
 - UCSB Adventure Programs (Instructor/Facilitator) **2018-**
 
@@ -12,6 +12,13 @@ title: "**Ian Hinds** (Hindstein)"
   - Guides Kayak tours (Ocean/River/Lake)
   - Advises novice outdoors-people
 
+- Search and Rescue Instructor/Ground Team Leader **2015-2020**
+  - Civil Air Patrol, USAF Auxiliary (Volunteer)
+  - Provided civilian disaster and humanitarian relief
+  - Met state EMS and S.A.R. response requirements
+  - Over 100 hrs of hazardous AFRCC sortie experience
+  - Instructed students at local, state, and national level
+
 ***Education:*** 
 
 - University of California, Santa Barbara (UCSB) **2018-**
@@ -19,7 +26,25 @@ title: "**Ian Hinds** (Hindstein)"
   - 3rd Year Physical Geography (B.S.)
   - Sundowner Winds Research Assistant (delayed by COVID-19)
   - MSIII Cadet in Army ROTC
+  
+  **Specailized Courses and Techniques**
+  - GEOG 136 (Environmental Data Science [**Python**,  **GitHub**])
+  - GEOG 162 (Water Quality Analysis, [**MS Excel**])
+  - GEOG 176A (Intro GIS, [**R**, **RStudio**, **GitHub**])
+  - GEOG 115A (Remote Sensing of the Environment) ~*IP*
+  - GEOG 133 (Tropical Meteorology) ~*IP*
+  
+***Languages:***
 
+- Spanish (Limited Working Proficiency)
+- Russian (Elementary Proficiency)
 
+***Honors/Awards:***
+
+- Reserve Officer Association Award **2020**
+  - Awarded for outstanding leadership and moral character within the UCSB ROTC program
+- Bataan Memorial Death March (Unofficial) **2020**
+  - 26.3 mile ruck march (35 lbs ruck, in full uniform) with 5 person team
+  - Completed in Santa Ynez Mountains, Santa Barbara, California
 
 
