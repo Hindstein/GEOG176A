@@ -62,6 +62,13 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
 ![](./img/bluered.png)
 
 ## [Terrain Analysis (R)](https://hindstein.github.io/geog-176A-labs/lab-06-ianhinds.html)
+ - Visualizes hydrological data from Mission Creek in Santa Barbara
+ - Determines terrain, elevation, flood, railway, and stream variation
+ - Attempts to highlight buildings impacted by a 2017 flood of Mission Creek
  - Constructing a complete (or partial) FIM library in the same way NOAA is trying to generalize the USA using the combined National Water Model - HAND method, and companies like Azavia, NSF, and ESRI are try to operationalize
+
+
+ <center>
+ ![](./img/sbwater.PNG) 
  
 *****
