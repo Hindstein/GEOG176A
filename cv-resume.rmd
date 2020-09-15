@@ -1,5 +1,6 @@
 ---
 title: "**Ian Hinds** (Hindstein)"
+subtitle: "**Contact:** ianhinds@ucsb.edu"
 ---
 *****
 
@@ -26,6 +27,7 @@ title: "**Ian Hinds** (Hindstein)"
   - 3rd Year Physical Geography (B.S.)
   - Sundowner Winds Research Assistant (delayed by COVID-19)
   - MSIII Cadet in Army ROTC
+  - Risk Analysis Officer, Geography Club
   
   **Specailized Courses and Techniques**
   - GEOG 136 (Environmental Data Science [**Python**,  **GitHub**])
@@ -46,5 +48,11 @@ title: "**Ian Hinds** (Hindstein)"
 - Bataan Memorial Death March (Unofficial) **2020**
   - 26.3 mile ruck march (35 lbs ruck, in full uniform) with 5 person team
   - Completed in Santa Ynez Mountains, Santa Barbara, California
+  
+***References:***
+
+- Rod Tucknott, UCSB Adventure Progams, Director, (rod.tucknott@recreation.ucsb.edu)
+- Russel Scott, MSG U.S. Army, ROTC Instructor, (russellscott@milsci.ucsb.edu)
+- Lucas Langford, Hall Ambulance, EMT/Friend, (lucaslangford@yahoo.com)
 
 

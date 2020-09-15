@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-In the Summer 2020, I took an Intro GIS course using R language and software. I drafted code, completed data science projects, and improved my geospatial data skills. This is a collection of my work, and it will not cover anything outside of the course. ["Project", 'Language']
+In the Summer 2020, I took an Intro GIS course using R language and software. I drafted code, completed data science projects, and improved my geospatial data skills. This is a collection of my work, and it will not cover anything outside of the course. ["Project" (Language)]
 
 ## [Building a project website (R)](https://github.com/Hindstein/GEOG176A/blob/master/index.html)
  
@@ -65,7 +65,7 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  - Visualizes hydrological data from Mission Creek in Santa Barbara
  - Determines terrain, elevation, flood, railway, and stream variation
  - Attempts to highlight buildings impacted by a 2017 flood of Mission Creek
- - Constructing a complete (or partial) FIM library in the same way NOAA is trying to generalize the USA using the combined National Water Model - HAND method, and companies like Azavia, NSF, and ESRI are try to operationalize
+ - Constructing a complete (or partial) FIM library in the same way NOAA is trying to generalize the USA using the combined National Water Model - HAND method, and companies like Azavia, NSF, and ESRI are trying to operationalize
 
 
  <center>

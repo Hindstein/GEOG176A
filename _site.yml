@@ -12,7 +12,7 @@ navbar:
     - text: "GIS Data Visuals"
       icon: fa-camera
       href: img.html
-    - text: "CV/Resume"
+    - text: "Resume"
       icon: fa-user
       href: cv-resume.html
   right:
