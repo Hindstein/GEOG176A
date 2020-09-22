@@ -35,8 +35,10 @@ Born 04/28/2000, U.S. Citizen, Registered for Selective Service
   - GEOG 136 (Environmental Data Science [**Python**,  **GitHub**])
   - GEOG 162 (Water Quality Analysis, [**MS Excel**])
   - GEOG 176A (Intro GIS, [**R**, **RStudio**, **GitHub**])
+  - GEOG 110 (Intro Meteorology)
   - GEOG 115A (Remote Sensing of the Environment) ~*IP*
   - GEOG 133 (Tropical Meteorology) ~*IP*
+  - GEOG 104 (Physical Oceanography) ~*IP*
   
 ***Languages:***
 
