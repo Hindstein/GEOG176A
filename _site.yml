@@ -9,11 +9,11 @@ navbar:
     - text: "GIS Projects"
       icon: fa-code-branch
       href: geog176A.html
-    - text: "Remote Sensing Labs"
+    - text: "Remote Sensing"
       icon: fa-satellite
       href: img.html
     - text: "Meteorology"
-      icon: fa-tornado
+      icon: fa-cloud-sun-rain
       href:
     - text: "Resume"
       icon: fa-user
