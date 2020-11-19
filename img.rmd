@@ -4,7 +4,15 @@ title: "Remote Sensing"
 
 The following documents are labs and projects involving satellite imagery assessment and environmental analysis.
 
-![Aerial Photography](./remote/IanHinds_115A_LAB1.pdf)
+![Aerial Photography](https://github.com/Hindstein/GISPort/blob/master/remote/IanHinds_115A_LAB1.pdf) 
+
+
+
+
+
+
+
+
 
 ![Time Series Image Interpretation](./remote/Geog_115A_Lab2_2020.pdf)
 
