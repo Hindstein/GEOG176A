@@ -2,3 +2,16 @@
 title: "Meteorology & Climatology"
 ---
 The following documents are labs and projects involving satellite sensing assessment and climatological analysis.
+
+
+### **Tropical**
+### [Radiation Conditions in the Low Latitudes](./meteor/IanHinds_Geog133_Lab1.pdf)
+
+### [Tropical Temperatures](./meteor/IanHinds_Geog133_Lab2.pdf)
+
+### [General Circulation of the Tropics](./meteor/IanHinds_Geog133_Lab3.pdf)
+
+### [Non-seasonal Variations of the Tropical Circulation](./meteor/IanHInds_Geog133_Lab4.pdf)
+
+### [Seasonal Variations in Regional Circulation Systems: *The Monsoons*](./meteor/IanHinds_Geog133_Lab5.pdf)
+
