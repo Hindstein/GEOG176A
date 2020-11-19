@@ -10,11 +10,11 @@ navbar:
       icon: fa-code-branch
       href: geog176A.html
     - text: "Remote Sensing"
-      icon: fa-satellite
+      icon: fa-camera
       href: img.html
     - text: "Meteorology"
-      icon: fa-cloud-sun-rain
-      href:
+      icon: fa-bolt
+      href: Meteor.html
     - text: "Resume"
       icon: fa-user
       href: cv-resume.html

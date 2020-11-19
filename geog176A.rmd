@@ -71,4 +71,28 @@ In the Summer 2020, I took an Intro GIS course using R language and software. I 
  <center>
  ![](./img/sbwater.PNG) 
  
+ ******
+ 
+ 
+### **Below are several examples of various plots, maps, graphs, etc. All visuals were created in *RStudio*, using *ggplot* and other geospatial libraries.**
+
+<center>
+## **Continental US States Surrounding Tennesee**
+<center>
+![](./img/tntouch-Rplot.png) 
+ 
+*****
+
+<center>
+## **Regional COVID-19 Cases/Deaths**
+<center>
+![](./img/region-casedeath-Rplot.png)
+
+*****
+
+<center>
+## **States With Most COVID Cases**
+<center>
+![](./img/state_level-Rplot.png)
+
 *****
