@@ -1,7 +1,7 @@
 ---
-title: <center> **Ian Hinds**
-subtitle: <center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPort/index.html) 
-
+title: "<center> **Ian Hinds**"
+subtitle: <center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPort/index.html)
+output: pdf_document
 ---
 *****
 **Statement:** Filled with the desire to emit excellence through transformational leadership and absorb adventurous opportunities, I am pursuing a military career in aviation, engineering, or combat arms. Versatile experiences throughout life have shaped my perspective of service to country and others. My academic pursuits have only increased my passion in STEM and assessing physical environments.
