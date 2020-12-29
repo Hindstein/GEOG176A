@@ -5,13 +5,18 @@ The following documents are labs and projects involving satellite sensing assess
 
 
 ### **Tropical**
-### [Radiation Conditions in the Low Latitudes](./meteor/IanHinds_Geog133_Lab1.pdf)
+### Lab I [Radiation Conditions in the Low Latitudes](./meteor/IanHinds_Geog133_Lab1.pdf)
 
-### [Tropical Temperatures](./meteor/IanHinds_Geog133_Lab2.pdf)
+### Lab II [Tropical Temperatures](./meteor/IanHinds_Geog133_Lab2.pdf)
 
-### [General Circulation of the Tropics](./meteor/IanHinds_Geog133_Lab3.pdf)
+### Lab III [General Circulation of the Tropics](./meteor/IanHinds_Geog133_Lab3.pdf)
 
-### [Non-seasonal Variations of the Tropical Circulation](./meteor/IanHInds_Geog133_Lab4.pdf)
+### Lab IV [Non-seasonal Variations of the Tropical Circulation](./meteor/IanHInds_Geog133_Lab4.pdf)
 
-### [Seasonal Variations in Regional Circulation Systems: *The Monsoons*](./meteor/IanHinds_Geog133_Lab5.pdf)
+### Lab V [Seasonal Variations in Regional Circulation Systems: *The Monsoons*](./meteor/IanHinds_Geog133_Lab5.pdf)
 
+### Lab VI [The Madden Julian Oscillation](./meteor/IanHinds_Geog133_Lab6.pdf)
+
+### Lab VII [Tropical Disturbances](./meteor/IanHinds_Geog133_Lab7.pdf)
+
+### Lab Paper [Tropical Cyclones & Climate Change](./meteor/IanHinds_TropCyc-ClimChng.pdf)
