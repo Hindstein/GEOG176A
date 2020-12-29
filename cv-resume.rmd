@@ -1,6 +1,6 @@
 ---
 title: "<center> **Ian Hinds**"
-subtitle: "<center>**Contact:** ianhinds@ucsb.edu"
+subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPort/index.html)"
 ---
 *****
 **Statement:** Filled with the desire to emit excellence through transformational leadership and absorb adventurous opportunities, I am pursuing a military career in aviation, engineering, or combat arms. Versatile experiences throughout life have shaped my perspective of service to country and others. My academic pursuits have only increased my passion in STEM and assessing physical environments.
@@ -68,4 +68,4 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu"
 - Lucas Langford, Hall Ambulance, EMT/Friend, (lucaslangford@yahoo.com)
 
 ******
-***(hindstein.github.io/GISPort/index.html)***
+***(Produced in RStudio)***
