@@ -1,6 +1,6 @@
 ---
-title: "**Ian Hinds**"
-subtitle: "**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPort/index.html)" 
+title: <center> **Ian Hinds**
+subtitle: <center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPort/index.html) 
 
 ---
 *****
@@ -26,6 +26,7 @@ subtitle: "**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPor
     - Wing Commander's Commendation 2018
       - Awarded for exceeding expectations as a cadet commander and instructor, Wing SAR Training Bivouac (San Diego)
 
+******
 ***Education*** 
 
 - University of California, Santa Barbara (UCSB) **2018-**
@@ -54,7 +55,8 @@ subtitle: "**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.io/GISPor
 - Bataan Memorial Death March (Unofficial) **2020**
   - 26.3 mile ruck march (35 lbs ruck, in full uniform) with 5 person team
   - Completed in Santa Ynez Mountains, Santa Barbara, California
-  
+
+******
 ***Languages***
 
 - Spanish (Limited Working Proficiency)
