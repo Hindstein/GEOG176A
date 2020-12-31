@@ -15,7 +15,7 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
   - Guides Kayak tours (Ocean/River/Lake)
   - Advises novice outdoor enthusiasts
 
-- Search and Rescue Instructor/Ground Team Leader **06/2015-06/2020**
+- Search and Rescue Instructor/Ground Team Leader **06/2015-**
   - Civil Air Patrol, USAF Auxiliary (Volunteer)
   - Met and maintained state EMS and S.A.R. response requirements
   - Over 60 hrs of AFRCC sortie experience 
@@ -24,6 +24,7 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
       - Awarded for successfully commanding a wing basic cadet school during academic season (San Francisco)
     - Wing Commander's Commendation 2018
       - Awarded for exceeding expectations as a cadet commander and instructor, Wing SAR Training Bivouac (San Diego)
+    - Honor GSAR Staff Member, National Emergency Services Academy 2018
 
 ******
 ***Education*** 
