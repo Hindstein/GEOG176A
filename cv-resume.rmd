@@ -35,6 +35,7 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
   - Sundowner Winds Research Assistant (delayed by COVID-19)
   - MSIII Cadet in Army ROTC
   - Treasurer, Geography Club
+  - Officer, UCSB Adventure Programs
   
   **Specailized Courses and Techniques**
   - GEOG 136 (Environmental Data Science [**Python**,  **GitHub**]) *A*
