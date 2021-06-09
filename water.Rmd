@@ -1,0 +1,13 @@
+---
+title: "Water Quality Analysis & Oceanography"
+---
+The following documents are labs and projects involving Jupyter notebook, python, and excel to measure and visualize hydrological data.
+
+## **Coastal Pollution**
+
+### [Pathogens](./water/Hinds_nb1_pathogens.pdf)
+
+### [Nutrients](./water/Hinds_nb2_nutrients.pdf)
+
+## **Water Quality**
+

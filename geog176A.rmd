@@ -2,7 +2,25 @@
 title: "Projects"
 ---
 
-In the Summer 2020, I took an Intro GIS course using R language and software. I drafted code, completed data science projects, and improved my geospatial data skills. This is a collection of my work, and it will not cover anything outside of the course. ["Project" (Language)]
+In 2020-2021, I completed a GIS series using R language and ArcGIS software. I drafted code, completed data science projects, and improved my geospatial data skills. This is a collection of my work.
+
+### **2021**
+
+#### **Comparitive Analysis of NYC and Detroit Water Quality through Population and Income**
+
+### [Proposal](./176C/176C Final Proposal Slides (3).pdf)
+
+### [Report](./176C/176C Final Report (1).pdf)
+
+### [Poster](./176C/Geog 176C Poster.pdf)
+
+<center>
+![](./176C/G176C Poster.jpg)
+
+
+********
+
+### **2020**
 
 ## [Building a project website (R)](https://github.com/Hindstein/GISPort/blob/master/index.html)
  

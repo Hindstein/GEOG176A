@@ -5,7 +5,34 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
 *****
 **Statement:** Filled with the desire to emit excellence through transformational leadership and absorb adventurous opportunities, I am pursuing a military career in aviation, engineering, or combat arms. Versatile experiences throughout life have shaped my perspective of service to country and others. My academic pursuits have only increased my passion in STEM and assessing physical environments.
 
-***Work/CAP Experience***
+***Education*** 
+
+- University of California, Santa Barbara (UCSB) **2018-**
+
+  - Physical Geography (B.S.) Spatial Science Minor
+  - Sundowner Winds Research Assistant (delayed by COVID-19)
+  - Army ROTC
+  - Treasurer, Geography Club
+  - Officer, UCSB Adventure Programs
+  
+  **Specailized Courses and Techniques**
+  - Environmental Data Science [**Python**,  **GitHub**]
+  - Water Quality Analysis & Coastal Pollution, [**Python**, **MS Excel**] 
+  - GIS (1yr), [**R**, **RStudio**, **ArcGIS**]
+  - Remote Sensing of the Environment (1yr)
+  - Meteorology, [**MS Excel**, **NOAA Data**]
+  
+***Army ROTC***
+
+- Top 3 cadet in class level
+- Managed and Instructed all F20 Virtual Leadership Labs
+- Received the CPT Dion J. Burmaz Memorial Award **2021**
+- Reserve Officer Association Award **2020**
+  - Awarded for outstanding leadership and moral character within the UCSB ROTC program
+  
+******
+  
+***Experience***
 
 - UCSB Adventure Programs (Instructor/Facilitator) **04/2018-**
 
@@ -15,7 +42,7 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
   - Guides Kayak tours (Ocean/River/Lake)
   - Advises novice outdoor enthusiasts
 
-- Search and Rescue Instructor/Ground Team Leader **06/2015-**
+- Search and Rescue Instructor/Ground Team Leader **06/2015-2021**
   - Civil Air Patrol, USAF Auxiliary (Volunteer)
   - Met and maintained state EMS and S.A.R. response requirements
   - Over 60 hrs of AFRCC sortie experience 
@@ -26,36 +53,6 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
       - Awarded for exceeding expectations as a cadet commander and instructor, Wing SAR Training Bivouac (San Diego)
     - Honor GSAR Staff Member, National Emergency Services Academy 2018
 
-******
-***Education*** 
-
-- University of California, Santa Barbara (UCSB) **2018-**
-
-  - 3rd Year Physical Geography (B.S.) Geology Minor
-  - Sundowner Winds Research Assistant (delayed by COVID-19)
-  - MSIII Cadet in Army ROTC
-  - Treasurer, Geography Club
-  - Officer, UCSB Adventure Programs
-  
-  **Specailized Courses and Techniques**
-  - GEOG 136 (Environmental Data Science [**Python**,  **GitHub**]) *A*
-  - GEOG 162 (Water Quality Analysis, [**MS Excel**]) *B*
-  - GEOG 176A (Intro GIS, [**R**, **RStudio**, **GitHub**]) *B*
-  - GEOG 110 (Intro Meteorology) *A*
-  - GEOG 115A (Remote Sensing of the Environment) *B*
-  - GEOG 133 (Tropical Meteorology, [**MS Excel**]) *A*
-  
-  
-  
-***Army ROTC***
-
-- Top 3 cadet in class level
-- Managed and Instructed all F20 Virtual Leadership Labs (as the only virtual MS3)
-- Reserve Officer Association Award **2020**
-  - Awarded for outstanding leadership and moral character within the UCSB ROTC program
-- Bataan Memorial Death March (Unofficial) **2020**
-  - 26.3 mile ruck march (35 lbs ruck, in full uniform) with 5 person team
-  - Completed in Santa Ynez Mountains, Santa Barbara, California
 
 ******
 ***Languages***
@@ -66,8 +63,7 @@ subtitle: "<center>**Contact:** ianhinds@ucsb.edu | [Website](hindstein.github.i
 ***References***
 
 - Rod Tucknott, UCSB Adventure Programs, Director, (rod.tucknott@recreation.ucsb.edu)
-- Russel Scott, MSG U.S. Army, ROTC Instructor, (russellscott@milsci.ucsb.edu)
-- Lucas Langford, Hall Ambulance, EMT/Friend, (lucaslangford@yahoo.com)
+- Lucas Langford, EMT/Friend, (lucaslangford@yahoo.com)
 
 ******
 ***(Produced in RStudio)***

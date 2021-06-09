@@ -15,7 +15,7 @@ library(ICON)
 
 **[GitHub Page](https://github.com/Hindstein)**
 
-**Project Description** This site serves as a portfolio for all GIS work completed within an Introductory GIS course at the University of California, Santa Barbara. The course used only *R* as the primary coding language, along with *RStudio* for coding work. This course is/was a big step into the world of practical geographical applications and an exciting experience.
+**Project Description** This site serves as a portfolio for academic work completed at the University of California, Santa Barbara. Production of this site used only *R* as the primary coding language, along with *RStudio* for coding work, then sycnhed to *GitHub*. Please enjoy and learn from the displays of my work as a Physical Geography (BS) student.
 
 **Experience** In addition to geospatial analysis, data wrangling, and raster manipulation through *R*, I am also moderately familiar with *Python* for Environmental Data Science and Statistical Analysis. I aspire to use these skills in natural resource management, meteorology, or subsequent research fields professionally. Examples of my completed work can be found throughout this site and within my GitHub account page.
 

@@ -5,6 +5,9 @@ The following documents are labs and projects involving satellite sensing assess
 
 
 ### **Tropical**
+
+### Lab Paper [Tropical Cyclones & Climate Change](./meteor/IanHinds_TropCyc-ClimChng.pdf)
+
 ### Lab I [Radiation Conditions in the Low Latitudes](./meteor/IanHinds_Geog133_Lab1.pdf)
 
 ### Lab II [Tropical Temperatures](./meteor/IanHinds_Geog133_Lab2.pdf)
@@ -18,5 +21,3 @@ The following documents are labs and projects involving satellite sensing assess
 ### Lab VI [The Madden Julian Oscillation](./meteor/IanHinds_Geog133_Lab6.pdf)
 
 ### Lab VII [Tropical Disturbances](./meteor/IanHinds_Geog133_Lab7.pdf)
-
-### Lab Paper [Tropical Cyclones & Climate Change](./meteor/IanHinds_TropCyc-ClimChng.pdf)

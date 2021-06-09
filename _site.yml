@@ -15,6 +15,12 @@ navbar:
     - text: "Meteorology"
       icon: fa-bolt
       href: Meteor.html
+    - text: "Water Quality"
+      icon: fa-drop
+      href: water.html
+    - text: "Environmental"
+      icon: fa-pine
+      href: envs.html
     - text: "Resume"
       icon: fa-user
       href: cv-resume.html
